@@ -1,0 +1,31 @@
+{
+  "name": "simple-rabbitmq-to-firehose",
+  "version": "0.0.1",
+  "description": "rabbitmq to firehose app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrus000/simple-rabbitmq-to-firehose.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "rabbit",
+    "firehose",
+    "aws"
+  ],
+  "author": "Cyrus Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrus000/simple-rabbitmq-to-firehose/issues"
+  },
+  "homepage": "https://github.com/cyrus000/simple-rabbitmq-to-firehose#readme",
+  "dependencies": {
+    "amqp": "0.2.6",
+    "async": "^2.5.0",
+    "aws-sdk": "^2.94.0",
+    "events": "^1.1.1"
+  }
+}
