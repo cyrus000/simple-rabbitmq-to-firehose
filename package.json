@@ -1,6 +1,6 @@
 {
   "name": "simple-rabbitmq-to-firehose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "rabbitmq to firehose app",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,8 @@
   "homepage": "https://github.com/cyrus000/simple-rabbitmq-to-firehose#readme",
   "dependencies": {
     "amqp": "0.2.6",
-    "async": "^2.5.0",
-    "aws-sdk": "^2.94.0",
-    "events": "^1.1.1"
+    "async": "2.5.0",
+    "aws-sdk": "2.94.0",
+    "events": "1.1.1"
   }
 }
