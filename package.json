@@ -1,6 +1,6 @@
 {
   "name": "simple-rabbitmq-to-firehose",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "rabbitmq to firehose app",
   "main": "index.js",
   "scripts": {
